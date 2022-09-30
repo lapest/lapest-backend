@@ -4,6 +4,10 @@
 
 create API logging track error and bug with winston
 
+## how to contributors
+
+go to Fork on github
+
 ## DOC
 
 [Miro Board](https://miro.com/welcomeonboard/dzJ5cks1UjBDaDdQNUhOQWl0Q1JoOTdLQkJ1eEhHU3QzZFEzNVdyaEJTYWQySUxpcXJCWDJGa3BGV2dGT2ZURnwzMDc0NDU3MzY0OTg3MjQxMDQyfDI=?share_link_id=925977835949)
